@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 🔭 I’m currently working on ...
-- [EntityFrameworkCore.SqlServer.SimpleBulks](https://github.com/phongnguyend/EntityFrameworkCore.SqlServer.SimpleBulks) - Bulk insert (retain client populated Ids or return db generated Ids), bulk update, bulk delete, bulk merge and bulk match with **SQL Server**.
-- [EntityFrameworkCore.PostgreSQL.SimpleBulks](https://github.com/phongnguyend/EntityFrameworkCore.PostgreSQL.SimpleBulks) - Bulk insert (retain client populated Ids or return db generated Ids), bulk update, bulk delete, bulk merge and bulk match with **PostgreSQL**.
-- [EntityFrameworkCore.MySql.SimpleBulks](https://github.com/phongnguyend/EntityFrameworkCore.MySql.SimpleBulks) - Bulk insert, bulk update, bulk delete, bulk merge and bulk match with **MySQL**.
+- [EntityFrameworkCore.SqlServer.SimpleBulks](https://github.com/phongnguyend/EntityFrameworkCore.SqlServer.SimpleBulks) - Fast and simple bulk insert (retain client populated Ids or return db generated Ids), bulk update, bulk delete, bulk merge and bulk match for **SQL Server**.
+- [EntityFrameworkCore.PostgreSQL.SimpleBulks](https://github.com/phongnguyend/EntityFrameworkCore.PostgreSQL.SimpleBulks) - Fast and simple bulk insert (retain client populated Ids or return db generated Ids), bulk update, bulk delete, bulk merge and bulk match for **PostgreSQL**.
+- [EntityFrameworkCore.MySql.SimpleBulks](https://github.com/phongnguyend/EntityFrameworkCore.MySql.SimpleBulks) - Fast and simple bulk insert, bulk update, bulk delete, bulk merge and bulk match for **MySQL**.
 
 <!--
 **phongnguyend/phongnguyend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
